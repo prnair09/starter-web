@@ -9,6 +9,7 @@ Adding introduction Text
 ### Purpose
 
 Sample website with plenty of files for demos. Testing Github
+Please fork this repo and then issue pull request for review
 
 
 #### Contribute
