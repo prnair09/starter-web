@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. Testing Github
 
 ##### Deployment
 This is simple web project deployment
+
+
+####CopyRight
+git.rakesh
